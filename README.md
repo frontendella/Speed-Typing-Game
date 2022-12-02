@@ -1,5 +1,5 @@
 # Speed-Typing-Game
-The game counts the amount of words typed in a given time. 
+The game counts the amount of words typed in a given time.    
 
 
 ## About 
