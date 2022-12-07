@@ -17,9 +17,6 @@ button {
   font-family: "Press Start 2P", cursive;
   display: block;
   margin: 0 auto;
-  border: none;
-  background: #a80020;
-  background: #00b800;
   padding: 10px 20px;
   text-transform: uppercase;
 }
@@ -40,10 +37,25 @@ textarea {
   margin: 0 auto;
   outline: none;
   height: 200px;
-  background: #00b800;
+  background: white;
   padding: 10px;
 }
 
 textarea:disabled {
-  background-color: #a5a2a2;
+  background-color: #e4f3f7;
+}
+
+@media (min-width: 1078px) {
+  div.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 1077px) {
+  body {
+    margin: 0;
+    place-items: center;
+  }
 }
