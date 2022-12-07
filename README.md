@@ -1,4 +1,4 @@
-# Speed-Typing-Game
+# [Speed-Typing-Game](https://speed-typing-game-with-react.netlify.app)
 The game counts the amount of words typed in a given time.    
 
 
