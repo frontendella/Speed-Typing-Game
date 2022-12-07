@@ -1,6 +1,7 @@
 # [Speed-Typing-Game](https://speed-typing-game-with-react.netlify.app)
 The game counts the amount of words typed in a given time.    
 
+[speed.webm](https://user-images.githubusercontent.com/82247833/206081665-c6e785ab-d727-4eaa-b295-f605b145aacb.webm)
 
 ## About 
 
