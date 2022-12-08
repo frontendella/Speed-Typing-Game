@@ -13,3 +13,4 @@ When the time is out, the text area becomes disabled again and it gives the user
 
 The "Start" button becomes disabled when the game is currently running. In the project used: useState, useEffect, useRef and a custom hooks. 
    
+  
